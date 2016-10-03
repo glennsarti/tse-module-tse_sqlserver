@@ -1,0 +1,22 @@
+{
+  "name": "tse_module-tse_sqlserver",
+  "version": "0.0.1",
+  "author": "tse_module",
+  "summary": null,
+  "license": "Apache-2.0",
+  "source": "",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [
+    {"name":"nanliu-staging","version_requirement":">= 1.0.0"},
+    {"name":"puppetlabs-mount_iso","version_requirement":">= 1.0.0"},
+    {"name":"puppetlabs-sqlserver","version_requirement":">= 1.0.0"},
+    {"name":"puppetlabs-powershell","version_requirement":">= 1.0.0"},
+    {"name":"puppetlabs-acl","version_requirement":">= 1.0.0"},
+    {"name":"opentable-windowsfeature","version_requirement":">= 1.0.0"},
+    {"name":"puppetlabs-reboot","version_requirement":">= 1.0.0"},
+    {"name":"reidmv-unzip","version_requirement":">= 1.0.0"},
+    {"name":"puppetlabs-windows_firewall","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
