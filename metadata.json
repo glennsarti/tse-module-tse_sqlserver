@@ -16,7 +16,7 @@
     {"name":"opentable-windowsfeature","version_requirement":">= 1.0.0"},
     {"name":"puppetlabs-reboot","version_requirement":">= 1.0.0"},
     {"name":"reidmv-unzip","version_requirement":">= 1.0.0"},
-    {"name":"puppetlabs-windows_firewall","version_requirement":">= 1.0.0"}
+    {"name":"puppet-windows_firewall","version_requirement":">= 1.0.0"}
   ],
   "data_provider": null
 }
